@@ -1,5 +1,6 @@
 set tabstop=2
 set shiftwidth=2
+set incsearch
 
 " Mapping
 let mapleader = "\<Space>"
